@@ -3,4 +3,4 @@ Test With Settings
     [Documentation]    Simple test 01
     [Tags]    simple_tag_name    simple_tag_value
     Log    Hello, world!
-    sleep   200
+    sleep   3000
